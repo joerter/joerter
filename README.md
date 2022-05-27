@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! You've found my GitHub profile.
+
+ I mainly use GitHub to host my dotfiles, so if you're interested in zsh, emacs, vim, and git aliases, checkout my [dotfiles](https://github.com/joerter/dotfiles) repo.
+ 
+ The source for my personal site, [johnoerter.me](https://johnoerter.me) and [redgreenrefactor.dev](https://redgreenrefactor.dev) is hosted here as well.
 
 <!--
 **joerter/joerter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
