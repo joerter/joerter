@@ -1,6 +1,6 @@
 ### Hi! You've found my GitHub profile.
 
- I mainly use GitHub to host my dotfiles, so if you're interested in zsh, emacs, vim, and git aliases, checkout my [dotfiles](https://github.com/joerter/dotfiles) repo.
+ I mainly use GitHub to host my dotfiles, so if you're interested in zsh, tmux, vim, and git aliases, checkout my [dotfiles](https://github.com/joerter/dotfiles) repo.
 
 <!--
 **joerter/joerter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
